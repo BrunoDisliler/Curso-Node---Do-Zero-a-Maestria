@@ -12,3 +12,7 @@
 * Operações e integração de Node JS com Sequelize
 * Operações e integração de Node JS com MongoDB
 * Operações e integração de Node JS com Mongoose
+
+<hr>
+<br><br><br>
+Repositório raíz do curso: https://github.com/matheusbattisti/curso_node
