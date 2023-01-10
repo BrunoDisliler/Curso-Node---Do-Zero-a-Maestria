@@ -27,6 +27,15 @@ function operation() {
 
         if(action === 'Criar Conta'){
             createAccount()
+        } else if(action === 'Depositar') {
+
+        } else if (action === 'Consultar Saldo') {
+
+        } else if(action === 'Sacar') {
+
+        } else if (action === 'Sair') {
+            console.log(chalk.bgBlue.black('Obrigado por usar o Accounts!'))
+            process.exit()
         }
     })
     .catch((err) => console.log(err))
